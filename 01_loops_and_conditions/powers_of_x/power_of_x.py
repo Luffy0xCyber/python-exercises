@@ -1,4 +1,3 @@
-# @author: Anas EL Faijah
 import math
 
 # validate number input

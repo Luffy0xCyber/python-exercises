@@ -1,5 +1,3 @@
-# @author : Anas EL Faijah
-
 import random
 
 # initialize my random Var :
