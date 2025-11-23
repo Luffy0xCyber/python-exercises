@@ -23,7 +23,7 @@ The exercises focus on these main concepts:
 
 You can browse the folders to see the code. To run a solution, navigate to the specific folder in your terminal and run the Python file.
 
-# Note
+## Note
 
 Please be aware that some exercises are basic and don't reflect my current skill level. They are part of my learning journey. Also, sometimes the teacher asks us to follow specific instructions.
 
